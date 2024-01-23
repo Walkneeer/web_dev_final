@@ -31,3 +31,10 @@ Use of generative AI in Architecture
 title idea: Arch2.0
 
 Theme: Dark, modern
+
+CLUSTER:
+
+- research
+- project
+- competition
+- main
