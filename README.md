@@ -18,3 +18,16 @@
   - User flow
   - wireframes
   - Style Tiles
+
+## Topic:
+
+Use of generative AI in Architecture
+
+## Inspiration:
+
+- https://www.theverge.com/
+
+
+title idea: Arch2.0
+
+Theme: Dark, modern
