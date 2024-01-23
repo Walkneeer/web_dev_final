@@ -12,6 +12,7 @@
 
 ## To-Do:
 
+  - Inspiration
   - Find the subject
   - select content
   - User flow
