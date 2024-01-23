@@ -1,5 +1,3 @@
-# Web_dev_final
-
 ## Brief:
   - design and build a responsive website of a magazine or a newsletter.
 
