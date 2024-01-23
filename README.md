@@ -2,9 +2,18 @@
 
 ## Brief:
   - design and build a responsive website of a magazine or a newsletter.
-# Spec:
+
+## Spec:
   - Topic: 
     - build a responsive website of a magazine or a newsletter.
     - a real situation
   - 5 pages (news and articles)
   - report.html
+
+## To-Do:
+
+  - Find the subject
+  - select content
+  - User flow
+  - wireframes
+  - Style Tiles
