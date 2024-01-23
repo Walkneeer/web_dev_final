@@ -32,7 +32,7 @@ title idea: Arch2.0
 
 Theme: Dark, modern
 
-CLUSTER:
+## pages:
 
 - research
 - project
