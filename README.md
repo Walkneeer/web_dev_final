@@ -24,6 +24,7 @@ Use of generative AI in Architecture
 ## Inspiration:
 
 - https://www.theverge.com/
+- https://www.frieze.com/
 
 
 title idea: Arch2.0
